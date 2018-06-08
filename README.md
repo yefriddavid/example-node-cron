@@ -20,3 +20,7 @@ npm install --save dotenv
 npm install --save cron
 
 
+instalar la app desde cero
+npm install
+
+
